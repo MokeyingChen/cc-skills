@@ -7,6 +7,7 @@ Claude Code 技能集，持续更新中。
 | 技能 | 说明 |
 |------|------|
 | [embedded-doc-generator](./embedded-doc-generator/) | 为嵌入式 C/C++ 项目（特别是 STM32 + FreeRTOS）自动生成项目文档 |
+| [cc-statusline-export](./cc-statusline-export/) | CC StatusLine 状态栏导出工具，支持自定义 Claude Code 终端状态栏 |
 
 ## 安装
 
